@@ -1,6 +1,6 @@
 # C Program
 
-![C Language](https://img.shields.io/badge/C-Language-blue.svg)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pradeep-1496/C-program)
 ![Last commit](https://img.shields.io/github/last-commit/pradeep-1496/C-program)
 ![Issues](https://img.shields.io/github/issues/pradeep-1496/C-program)

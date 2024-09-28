@@ -28,4 +28,4 @@ To get a copy of this repository and run the examples on your local machine, fol
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/C-program/edit/main/LICENSE.txt)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/C-program/blob/main/LICENSE.txt)

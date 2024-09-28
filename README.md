@@ -4,7 +4,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/pradeep-1496/C-program)
 ![Last commit](https://img.shields.io/github/last-commit/pradeep-1496/C-program)
 ![Issues](https://img.shields.io/github/issues/pradeep-1496/C-program)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Description
 
@@ -26,3 +25,7 @@ To get a copy of this repository and run the examples on your local machine, fol
 1. Clone the repository:
    ```bash
    git clone https://github.com/pradeep-1496/C-program.git
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/C-program/edit/main/LICENSE.txt)
